@@ -1,0 +1,19 @@
+# From Tokyo to different destinations, no seat reservation
+# First number is price in JPY, second number is distance in km
+Kagoshima-Chuo 28820 1325.9
+Kumamoto 25460 1167.3
+Hakata 21810 1069.1
+Shin-Shimonoseki 20640 992.5
+Hiroshima 18000 821.2
+Okayama 16300 676.3
+Shin-Kobe 14160 548
+Shin-Osaka 13620 515.4
+Kyoto 13080 476.3
+Nagoya 10360 342
+Shin-Yokohama 1360 25.5
+Omiya 1620 31.3
+Karuizawa 5390 150.4
+Nagano 7680 226
+Toyama 12210 395.5
+Kanazawa 13600 454
+Fukushima 8430 255.1

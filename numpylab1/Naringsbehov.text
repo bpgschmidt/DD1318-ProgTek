@@ -1,0 +1,6 @@
+# daily nutrient needs listed in mg
+# nutrient:
+protein, carbohydrates, fat, vitamin A, vitamin B1, vitamin B2, vitamin B3, vitamin B12, vitamin C, vitamin D, vitamin K
+
+# need
+60000, 275000, 70000, 0.7, 1.1, 1.2, 15, 0.002, 75, 0.01, 0.065,  
